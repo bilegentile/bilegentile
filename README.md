@@ -1,7 +1,8 @@
 ### Hi there 👋
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Computer Science's student at Universty of Naples, Federico II. Apple Developer Academy Student.</p>
+    <p>I'm a Computer Science's student at Universty of Naples, Federico II.</p>
+    <p>Apple Developer Academy Student.</p>
 </div>
 
 <div align="center">
