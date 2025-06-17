@@ -37,7 +37,7 @@ I have experience working with a wide range of tools and technologies, including
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 * **Email:** [beniamino.gentile.98@gmail.com](mailto:beniamino.gentile.98@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/beniamino-gentile-5b21b91b7/]
+* **LinkedIn:** https://www.linkedin.com/in/beniamino-gentile-5b21b91b7/
 
 <!--
 **bilegentile/bilegentile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
