@@ -1,8 +1,8 @@
 # Hi there, I'm Beniamino Gentile 👋
 
-I'm a passionate **iOS Developer** dedicated to crafting beautiful and impactful applications. [cite_start]I am currently honing my skills as a student at the **Apple Developer Academy** in Naples  [cite_start]and pursuing my **Computer Science degree** at the University of Naples Federico II.
+I'm a passionate **iOS Developer** dedicated to crafting beautiful and impactful applications. I am currently honing my skills as a student at the **Apple Developer Academy** in Naples and pursuing my **Computer Science degree** at the University of Naples Federico II.
 
-[cite_start]My focus is on writing clean, efficient code  and building intuitive user experiences. [cite_start]I thrive in collaborative environments and have a strong foundation in the entire app development lifecycle, from initial research and design to deployment on the App Store.
+My focus is on writing clean, efficient code  and building intuitive user experiences. I thrive in collaborative environments and have a strong foundation in the entire app development lifecycle, from initial research and design to deployment on the App Store.
 
 ---
 
@@ -16,7 +16,7 @@ Here are some of the projects I've worked on:
 | **Visual Braille** | An accessible game designed to teach the Braille alphabet using an innovative pinch detection mechanic. **(Swift Student Challenge 2025 Accepted Submission)** | Pinch Detection | iPadOS |
 | **ASL Alphabet Translator**| A macOS application that translates American Sign Language hand gestures in real-time. | CreateML, CoreML | macOS |
 | **Sudokun** | An iOS game that offers limitless Sudoku puzzles with a focus on smooth game logic. | Swift Concurrency | iOS |
-| **iPadOS for Education in Tanzania** | [cite_start]Developed an iPadOS app to create a tailored learning experience for illiterate women. | [cite_start]Swift, SwiftLint, DocC  | iPadOS |
+| **iPadOS for Education in Tanzania** | Developed an iPadOS app to create a tailored learning experience for illiterate women. | Swift, SwiftLint, DocC  | iPadOS |
 
 ---
 
@@ -25,7 +25,7 @@ Here are some of the projects I've worked on:
 I have experience working with a wide range of tools and technologies, including:
 
 * **Languages:** Swift, C, C++, Java, Python, SQL, HTML, CSS, JavaScript
-* [cite_start]**Apple Platforms & Frameworks:** SwiftUI, UIKit, Xcode, SwiftData, CoreData, CloudKit, PencilKit, CoreML, CreateML, Concurrency, RealityKit, Reality Composer Pro, Apple Intelligence API 
+* **Apple Platforms & Frameworks:** SwiftUI, UIKit, Xcode, SwiftData, CoreData, CloudKit, PencilKit, CoreML, CreateML, Concurrency, RealityKit, Reality Composer Pro, Apple Intelligence API 
 * **Architectural Patterns:** MVVM, MVC
 * **Development Methodologies:** Agile, Scrum, CBL Framework
 * **Tools & Other Skills:** Git, Docker, Node.js, UML
@@ -37,8 +37,7 @@ I have experience working with a wide range of tools and technologies, including
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 * **Email:** [beniamino.gentile.98@gmail.com](mailto:beniamino.gentile.98@gmail.com)
-* **LinkedIn:** [Your LinkedIn Profile URL Here]
-* **GitHub:** [Your GitHub Profile URL Here]
+* **LinkedIn:** [https://www.linkedin.com/in/beniamino-gentile-5b21b91b7/]
 
 <!--
 **bilegentile/bilegentile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
