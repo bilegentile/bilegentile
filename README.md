@@ -1,19 +1,44 @@
-### Hi there 👋
-<div align="center">
-    <h2>🚀 About Me</h2>
-    <p>I'm a Computer Science's student at Universty of Naples, Federico II.</p>
-    <p>Apple Developer Academy Pier Student.</p>
-</div>
+# Hi there, I'm Beniamino Gentile 👋
 
-<div align="center">
-    <!-- Replace with your skills -->
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-    <!-- Add more badges similarly -->
-</div>
+I'm a passionate **iOS Developer** dedicated to crafting beautiful and impactful applications. [cite_start]I am currently honing my skills as a student at the **Apple Developer Academy** in Naples  [cite_start]and pursuing my **Computer Science degree** at the University of Naples Federico II.
+
+[cite_start]My focus is on writing clean, efficient code  and building intuitive user experiences. [cite_start]I thrive in collaborative environments and have a strong foundation in the entire app development lifecycle, from initial research and design to deployment on the App Store.
+
+---
+
+## 🚀 My Projects
+
+Here are some of the projects I've worked on:
+
+| Project | Description | Technologies Used | Platform |
+| :--- | :--- | :--- | :--- |
+| **Daidle** | My first app on the App Store! Combine emojis to create fun sketches and designs. | SwiftUI, UIKit, CloudKit, CoreData, PencilKit, API Calls | iPadOS |
+| **Visual Braille** | An accessible game designed to teach the Braille alphabet using an innovative pinch detection mechanic. **(Swift Student Challenge 2025 Accepted Submission)** | Pinch Detection | iPadOS |
+| **ASL Alphabet Translator**| A macOS application that translates American Sign Language hand gestures in real-time. | CreateML, CoreML | macOS |
+| **Sudokun** | An iOS game that offers limitless Sudoku puzzles with a focus on smooth game logic. | Swift Concurrency | iOS |
+| **iPadOS for Education in Tanzania** | [cite_start]Developed an iPadOS app to create a tailored learning experience for illiterate women. | [cite_start]Swift, SwiftLint, DocC  | iPadOS |
+
+---
+
+## 🛠️ My Tech Stack
+
+I have experience working with a wide range of tools and technologies, including:
+
+* **Languages:** Swift, C, C++, Java, Python, SQL, HTML, CSS, JavaScript
+* [cite_start]**Apple Platforms & Frameworks:** SwiftUI, UIKit, Xcode, SwiftData, CoreData, CloudKit, PencilKit, CoreML, CreateML, Concurrency, RealityKit, Reality Composer Pro, Apple Intelligence API 
+* **Architectural Patterns:** MVVM, MVC
+* **Development Methodologies:** Agile, Scrum, CBL Framework
+* **Tools & Other Skills:** Git, Docker, Node.js, UML
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to new opportunities and collaborations. Feel free to reach out!
+
+* **Email:** [beniamino.gentile.98@gmail.com](mailto:beniamino.gentile.98@gmail.com)
+* **LinkedIn:** [Your LinkedIn Profile URL Here]
+* **GitHub:** [Your GitHub Profile URL Here]
 
 <!--
 **bilegentile/bilegentile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
