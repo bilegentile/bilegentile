@@ -1,6 +1,6 @@
 # Hi there, I'm Beniamino Gentile 👋
 
-I'm a passionate **iOS Developer** dedicated to crafting beautiful and impactful applications. I am currently honing my skills as a student at the **Apple Developer Academy** in Naples and pursuing my **Computer Science degree** at the University of Naples Federico II.
+I'm a passionate **iOS Developer** dedicated to crafting beautiful and impactful applications. I am currently honing my skills as a second-year student at the **Apple Developer Academy** in Naples and pursuing my **Computer Science degree** at the University of Naples Federico II.
 
 My focus is on writing clean, efficient code  and building intuitive user experiences. I thrive in collaborative environments and have a strong foundation in the entire app development lifecycle, from initial research and design to deployment on the App Store.
 
