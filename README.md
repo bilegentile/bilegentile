@@ -12,7 +12,7 @@ Here are some of the projects I've worked on:
 
 | Project | Description | Technologies Used | Platform |
 | :--- | :--- | :--- | :--- |
-| **Daidle** (https://apps.apple.com/us/app/daidle/id6504183383) | My first app on the App Store! Combine emojis to create fun sketches and designs. | SwiftUI, UIKit, CloudKit, CoreData, PencilKit, API Calls | iPadOS |
+| [**Daidle**](https://apps.apple.com/us/app/daidle/id6504183383) | My first app on the App Store! Combine emojis to create fun sketches and designs. | SwiftUI, UIKit, CloudKit, CoreData, PencilKit, API Calls | iPadOS |
 | **Visual Braille** | An accessible game designed to teach the Braille alphabet using an innovative pinch detection mechanic. **(Swift Student Challenge 2025 Accepted Submission)** | Pinch Detection | iPadOS |
 | **ASL Alphabet Translator**| A macOS application that translates American Sign Language hand gestures in real-time. | CreateML, CoreML | macOS |
 | **Sudokun** | An iOS game that offers limitless Sudoku puzzles with a focus on smooth game logic. | Swift Concurrency | iOS |
